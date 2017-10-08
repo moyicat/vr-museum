@@ -79,8 +79,10 @@ public class RaycastMovement : MonoBehaviour {
 				"easetype", "linear"
 			)
 		);
+		player.GetComponent<MuseumLogic>().iTweenClick();
 	}
 	public void teleportMove(Vector3 location) {
 		player.transform.position = new Vector3 (location.x, location.y + height, location.z);
+		player.GetComponent<MuseumLogic>().iTweenClick();
 	}
 }
