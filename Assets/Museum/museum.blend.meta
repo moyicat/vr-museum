@@ -14,6 +14,8 @@ ModelImporter:
     100012: Cube_004
     100014: Empty
     100016: Stands
+    100018: Video_Panel
+    100020: Roof
     400000: //RootNode
     400002: Building
     400004: Cube
@@ -23,6 +25,8 @@ ModelImporter:
     400012: Cube_004
     400014: Empty
     400016: Stands
+    400018: Video_Panel
+    400020: Roof
     2300000: //RootNode
     2300002: Building
     2300004: Cube
@@ -30,6 +34,8 @@ ModelImporter:
     2300008: Cube_002
     2300010: Cube_003
     2300012: Cube_004
+    2300014: Video_Panel
+    2300016: Roof
     3300000: //RootNode
     3300002: Building
     3300004: Cube
@@ -37,12 +43,16 @@ ModelImporter:
     3300008: Cube_002
     3300010: Cube_003
     3300012: Cube_004
+    3300014: Video_Panel
+    3300016: Roof
     4300000: Building
     4300002: Cube_004
     4300004: Cube_003
     4300006: Cube_002
     4300008: Cube_001
     4300010: Cube
+    4300012: Video_Panel
+    4300014: Roof
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -80,7 +90,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -95,7 +105,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -111,10 +121,10 @@ ModelImporter:
     rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
