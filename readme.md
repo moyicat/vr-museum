@@ -2,13 +2,9 @@
 
 This is a project for Udacity Nanodegree program, made by Samantha Zhang, voiceovered by Yisi Lu.
 
-![](Screenshot_1.png)
+Video Walkthrough: [https://youtu.be/8wpL7rX-_S0](https://youtu.be/8wpL7rX-_S0)
 
 ![](Screenshot_2.png)
-
-![](Screenshot_3.png)
-
-![](Screenshot_4.png)
 
 ### Platform
 
